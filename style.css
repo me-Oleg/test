@@ -7129,7 +7129,7 @@ progress {
   font-weight:400;
   src:local("Mont Regular"),
   local("Mont-Regular"),
-  url(https://npotpz.ru/wp-content/themes/npotpz/assets/fonts/landing/Mont-Regular.woff2) format("woff2")
+  url(https://cdn.jsdelivr.net/gh/me-Oleg/test/Mont-Regular.woff2) format("woff2")
 }
 @font-face {
   font-family:Mont;
@@ -7137,7 +7137,7 @@ progress {
   font-weight:400;
   src:local("Mont Regular Italic"),
   local("Mont-RegularItalic"),
-  url(https://npotpz.ru/wp-content/themes/npotpz/assets/fonts/landing/Mont-RegularItalic.woff2) format("woff2")
+  url(https://cdn.jsdelivr.net/gh/me-Oleg/test/Mont-RegularItalic.woff2) format("woff2")
 }
 @font-face {
   font-family:Mont;
@@ -7145,7 +7145,7 @@ progress {
   font-weight:600;
   src:local("Mont SemiBold"),
   local("Mont-SemiBold"),
-  url(https://npotpz.ru/wp-content/themes/npotpz/assets/fonts/landing/Mont-SemiBold.woff2) format("woff2")
+  url(https://cdn.jsdelivr.net/gh/me-Oleg/test/Mont-SemiBold.woff2) format("woff2")
 }
 @font-face {
   font-family:Mont;
@@ -7153,7 +7153,7 @@ progress {
   font-weight:700;
   src:local("Mont Bold"),
   local("Mont-Bold"),
-  url(https://npotpz.ru/wp-content/themes/npotpz/assets/fonts/landing/Mont-Bold.woff2) format("woff2")
+  url(https://cdn.jsdelivr.net/gh/me-Oleg/test/Mont-Bold.woff2) format("woff2")
 }
 @font-face {
   font-family:Mont;
@@ -7161,7 +7161,7 @@ progress {
   font-weight:800;
   src:local("Mont Heavy"),
   local("Mont-Heavy"),
-  url(https://npotpz.ru/wp-content/themes/npotpz/assets/fonts/landing/Mont-Heavy.woff2) format("woff2")
+  url(https://cdn.jsdelivr.net/gh/me-Oleg/test/Mont-Heavy.woff2) format("woff2")
 }
 :root {
   --color-light:#e4e8f7;
